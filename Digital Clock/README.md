@@ -1,6 +1,6 @@
 # Overview
 This is a midterm project conducted as part of the [Microprocessor Applications Engineering] undergraduate course at Kookmin University.\
-The project involved the creation of a digital clock capable of displaying time in a 24-hour format, utilizing the ATmega128 Microprocessor Unit (MCU). The basic functions include the display of hours, minutes, and seconds, with several additional features implemented using the C programming language.
+The project involved the creation of a digital clock capable of displaying time in a 24-hour format, utilizing the ATmega128 Microprocessor Unit (MCU). The basic functions include the display of hours, minutes, and seconds, with several additional features implemented using the C programming language. 
 
 # Hardware
 <img src="https://github.com/user-attachments/assets/32f45be1-6466-4e40-8693-d64d4c9f588f" alt="hardware" width="400"/>
