@@ -1,6 +1,6 @@
 # Overview
 This is a final project conducted as part of the **[Microprocessor Applications Engineering]** undergraduate course at Kookmin University.\
-The project involved the development of a Hangman game for guessing the spelling of English words, utilizing the ATmega128 Microprocessor Unit (MCU) and Putty. The USART (Universal Synchronous/Asynchronous Receiver Transmitter) was employed to enable communication between the PC and the MCU. In addition to the basic game functions, several additional features were implemented using various components.
+The project involved the development of a Hangman game for guessing the spelling of English words, utilizing the ATmega128 Microprocessor Unit (MCU) and Putty. The USART (Universal Synchronous/Asynchronous Receiver Transmitter) was employed to enable communication between the PC and the MCU. In addition to the basic game functions, several additional features were implemented using various components. 
 
 # Hardware
 <img src="https://github.com/user-attachments/assets/a0b4a419-b096-42cb-875a-28fef9b13985" alt="hardware" width="380"/>
