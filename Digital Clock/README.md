@@ -16,5 +16,5 @@ The project involved the creation of a digital clock capable of displaying time 
 3. Alarm
 <img src="https://github.com/user-attachments/assets/9be5fd8d-4180-412b-8e04-ca48895eab13" alt="hardware" width="400"/>
 
-5. Stop watch
+4. Stop watch
 <img src="https://github.com/user-attachments/assets/a1408ea7-0bdf-4c70-86f7-5047f0fe0dd1" alt="hardware" width="400"/>
